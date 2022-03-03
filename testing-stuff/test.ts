@@ -1,3 +1,4 @@
+/* Decleare 'user' interface */
 interface user {
   name: string;
   species: string;
@@ -5,6 +6,7 @@ interface user {
   id: number;
 }
 
+/* Object oriented programming is pain */
 class someone {
   name: string;
   species: string;

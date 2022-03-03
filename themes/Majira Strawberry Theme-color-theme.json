@@ -2,9 +2,9 @@
 	"name": "Majira Strawberry Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#0e0331",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#e707d4",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#9dff41"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ff6a5c"
 			}
 		},
 		{
@@ -100,7 +100,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#82ff88"
 			}
 		},
 		{
@@ -109,7 +109,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#e497ae"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ae00ff"
 			}
 		},
 		{
