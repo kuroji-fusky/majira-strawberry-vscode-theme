@@ -2,10 +2,21 @@
 	"name": "Majira Strawberry Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#0e0331",
+		"editor.background": "#150f27",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#e707d4",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#f11414",
+    // "activityBarBadge.foreground": "#000000",
+		"sideBarTitle.foreground": "#bbbbbb",
+    "sideBar.background": "#1a0b2c",
+    "activityBar.background": "#12031f",
+    "activityBar.foreground": "#ffdbdb",
+    "titleBar.activeBackground": "#170633",
+    "button.background": "#7912da",
+    "tab.activeBorderTop": "#48ff00",
+    "notifications.background": "#26023d",
+    "editorGroupHeader.tabsBackground": "#170633",
+    "tab.inactiveBackground": "#0d0113",
+    "tab.inactiveForeground": "#83509b"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +27,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#9dff41"
+				"foreground": "#5806b6"
 			}
 		},
 		{
@@ -26,7 +37,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#eee234"
 			}
 		},
 		{
@@ -56,7 +67,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#ff6a5c"
+				"foreground": "#f65849"
 			}
 		},
 		{
@@ -100,7 +111,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82ff88"
+				"foreground": "#45ff4e"
 			}
 		},
 		{
@@ -109,7 +120,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#e497ae"
+				"foreground": "#8764fb"
 			}
 		},
 		{
@@ -150,7 +161,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#ff3a96"
 			}
 		},
 		{
@@ -210,7 +221,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#fb1965"
 			}
 		},
 		{
@@ -304,7 +315,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#28c2ff"
 			}
 		},
 		{

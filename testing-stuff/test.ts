@@ -1,4 +1,4 @@
-/* Decleare 'user' interface */
+/* Declear 'user' interface */
 interface user {
   name: string;
   species: string;
@@ -32,4 +32,10 @@ function identifyYourselfMF(getDatCutie: findCutie) {
   console.log(
     `Hello there ${getDatCutie.name}, you're a ${getDatCutie.fursona} right? You're such a cutie!`
   );
+}
+
+let yourmom: boolean;
+
+if (yourmom !== true) {
+  console.log("yes");
 }
