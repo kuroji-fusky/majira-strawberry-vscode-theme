@@ -1,13 +1,23 @@
-# README
-## This is the README for your extension "majira-strawberry-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Majira Strawberry VS Code Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Todo for <s>world domination</s> other IDEs
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [ ] Make one for PyCharmCore
+- [ ] Make one for Visual Studio (if that's even possible for me)
 
-**Enjoy!**
+> This trash theme is still work in progress, heck, it's not even 
+> available yet in the VS Code Marketplace yet.
+## Intro
+
+Are you a programmer? Are you also an absolute **furry trash**? ...well,
+**ME TOO!**
+
+It's one of these things that I've taken one of my two favorite things taken
+too far and hoping this doesn't get noticed...
+
+This is basically a carbon copy of the [SynthWave '84](https://github.com/robb0wen/synthwave-vscode)
+theme but with a hint of green and red tints lazily thrown here and there, it's not creative at all.
+
+## Installation
+
+TBA lol

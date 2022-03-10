@@ -1,21 +1,21 @@
 {
-    "name": "majira-strawberry-theme",
-    "displayName": "Majira Strawberry Theme",
-    "description": "Increase your productivity and your furry pride by coding with this theme!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Majira Strawberry Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Majira Strawberry Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "majira-strawberry-vscode",
+  "displayName": "Majira Strawberry VS Code Theme",
+  "description": "Increase your productivity and your furry pride by coding with this theme!",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Majira Strawberry Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Majira Strawberry Theme-color-theme.json"
+      }
+    ]
+  }
 }
