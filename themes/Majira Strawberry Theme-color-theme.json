@@ -2,26 +2,31 @@
 	"name": "Majira Strawberry Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1a171f",
+		"editor.background": "#261c36",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#f11414",
+		"activityBarBadge.background": "#ff4646",
 		"sideBarTitle.foreground": "#bbbbbb",
-    "sideBar.background": "#1a0b2c",
-    "activityBar.background": "#0b090e",
+    "sideBar.background": "#261738",
+    "activityBar.background": "#1a1226",
     "activityBar.foreground": "#f2dbff",
     "titleBar.activeBackground": "#171120",
     "button.background": "#8400ff",
-    "tab.activeBorderTop": "#48ff00",
+    "button.secondaryBackground": "#49038b",
+    "keybindingLabel.background": "#26023d",
     "notifications.background": "#26023d",
+    "dropdown.background": "#371f47",
     "editorGroupHeader.tabsBackground": "#170633",
-    "tab.inactiveBackground": "#0d0113",
+    "editorInlayHint.parameterForeground":"#ffffff",
+    "editorInlayHint.parameterBackground":"#3b0753",
+    "tab.inactiveBackground": "#1d022a",
     "tab.inactiveForeground": "#83509b",
     "list.hoverBackground": "#300950",
-    "list.activeSelectionBackground": "#f3134b",
+    "list.activeSelectionBackground": "#7e0bbc",
     "focusBorder": "#96fd0f55",
     "input.background": "#241724",
-    "editorInlayHint.parameterForeground":"#ffffff",
-    "editorInlayHint.parameterBackground":"#3b0753"
+    "statusBar.background": "#870593",
+    "statusBar.debuggingBackground": "#e815ff",
+    "inputValidation.errorBackground": "#ff0000" /* asss */
 	},
 	"tokenColors": [
 		{
@@ -32,7 +37,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5806b6"
+				"foreground": "#fc4e4e"
 			}
 		},
 		{
@@ -72,7 +77,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#f65849"
+				"foreground": "#f68b49"
 			}
 		},
 		{
@@ -92,7 +97,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#ff8995"
 			}
 		},
 		{
@@ -103,7 +108,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#c171f0"
 			}
 		},
 		{
@@ -166,7 +171,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#ff3a96"
+				"foreground": "#7977fd"
 			}
 		},
 		{
@@ -255,7 +260,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#ec5fe3"
 			}
 		},
 		{
