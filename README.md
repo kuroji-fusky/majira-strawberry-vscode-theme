@@ -1,10 +1,5 @@
 # Majira Strawberry VS Code Theme
 
-## Todo for <s>world domination</s> other IDEs
-
-- [ ] Make one for PyCharmCore
-- [ ] Make one for Visual Studio (if that's even possible for me)
-
 > This trash theme is still work in progress, heck, it's not even 
 > available yet in the VS Code Marketplace yet.
 ## Intro
@@ -21,3 +16,8 @@ theme but with a hint of green and red tints lazily thrown here and there, it's 
 ## Installation
 
 TBA lol
+
+## Todo for <s>world domination</s> other IDEs
+
+- [ ] Make one for PyCharmCore
+- [ ] Make one for Visual Studio (if that's even possible for me)
