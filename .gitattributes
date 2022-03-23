@@ -1,4 +1,5 @@
 # Set default behavior to automatically normalize line endings.
 * text=auto
 
-themes/Majira Strawberry Theme-color-theme.json linguist-detectable
+themes/Majira Strawberry Theme-color-theme.json linguist-detectable=true
+themes/Majira Strawberry Theme-color-theme.json linguist-language=JSON
