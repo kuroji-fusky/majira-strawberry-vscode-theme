@@ -1,6 +1,5 @@
 # Set default behavior to automatically normalize line endings.
 * text=auto
 
-# Detect Jason Derulo
 *.json linguist-detectable=true
 *.json linguist-language=JSON
