@@ -1,5 +1,0 @@
-# Set default behavior to automatically normalize line endings.
-* text=auto
-
-*.json linguist-detectable=true
-*.json linguist-language=JSON
