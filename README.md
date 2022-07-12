@@ -1,5 +1,4 @@
-
-![Majira Strawberry VS Code Theme Banner](https://github.com/skepfusky/majira-strawberry-vscode/blob/main/ms-vscode%20repo%20ext.png?raw=true)
+![Majira Strawberry VS Code Theme Banner](https://user-images.githubusercontent.com/94678583/178455337-6faed518-b393-4ca8-8ecb-b1b0ee2c1317.png)
 
 # Majira Strawberry VS Code Theme
 
@@ -13,9 +12,3 @@ theme but with a hint of green and red tints lazily thrown here and there, it's 
 ## Installation
 
 TBA lol
-
-## Todo for ~~world domination~~ other IDEs
-
-- [ ] Release this theme on the VS Code Marketplace
-- [ ] Make one for PyCharmCore
-- [ ] Make one for Visual Studio (if that's even possible for me)
