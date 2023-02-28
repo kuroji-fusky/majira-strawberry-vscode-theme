@@ -3,7 +3,9 @@
   "displayName": "Majira Strawberry Theme",
   "description": "Increase your productivity and your furry pride by coding with this theme!",
   "version": "1.0.0",
+  "author": "Kuroji Fusky <hello@kurofusky.xyz>",
   "publisher": "KurojiFusky",
+  "icon": "icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/kuroji-fusky/majira-strawberry-vscode.git"

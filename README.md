@@ -1,6 +1,6 @@
-![Majira Strawberry VS Code Theme](https://user-images.githubusercontent.com/94678583/221720750-f8163faf-f5bd-4318-9547-7a6c04c92c87.png)
-
 # Majira Strawberry VS Code Theme
+
+![Majira Strawberry VS Code Theme](https://user-images.githubusercontent.com/94678583/221720750-f8163faf-f5bd-4318-9547-7a6c04c92c87.png)
 
 Are you a programmer who is also an absolute **furry trash**? ...well, **ME TOO!**
 
