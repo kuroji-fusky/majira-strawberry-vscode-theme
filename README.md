@@ -2,8 +2,6 @@
 
 # Majira Strawberry VS Code Theme
 
-*This trash theme is still work in progress, heck, it's not even available yet in the VS Code Marketplace yet.*
-
 Are you a programmer who is also an absolute **furry trash**? ...well, **ME TOO!**
 
 ![Preview](https://user-images.githubusercontent.com/94678583/221720743-29bb51c1-a506-4675-8274-03d7e63f99ae.jpg)

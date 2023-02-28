@@ -2,13 +2,28 @@
   "name": "majira-strawberry-vscode",
   "displayName": "Majira Strawberry VS Code Theme",
   "description": "Increase your productivity and your furry pride by coding with this theme!",
-  "version": "0.0.2",
-  "engines": {
-    "vscode": "^1.64.0"
+  "version": "1.0.0",
+  "publisher": "KurojiFusky",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuroji-fusky/majira-strawberry-vscode.git"
   },
+  "keywords": [
+    "furry",
+    "furry theme",
+    "majira",
+    "strawberry",
+    "purple",
+    "violet",
+    "majira strawberry",
+    "dark theme"
+  ],
   "categories": [
     "Themes"
   ],
+  "engines": {
+    "vscode": "^1.64.0"
+  },
   "contributes": {
     "themes": [
       {
