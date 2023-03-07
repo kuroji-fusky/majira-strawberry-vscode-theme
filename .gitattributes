@@ -1,2 +1,2 @@
 * text=auto
-'themes/Majira Strawberry Theme-color-theme.json' linguist-detectable
+themes/*.json linguist-detectable
