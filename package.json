@@ -1,6 +1,6 @@
 {
-  "name": "majira-strawberry-vscode",
-  "displayName": "Majira Strawberry Theme",
+  "name": "majira-strawberry",
+  "displayName": "Majira Strawberry",
   "description": "Increase your productivity and your furry pride by coding with this theme!",
   "version": "1.0.0",
   "author": "Kuroji Fusky <hello@kurofusky.xyz>",
@@ -29,7 +29,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Majira Strawberry Theme",
+        "label": "Majira Strawberry",
         "uiTheme": "vs-dark",
         "path": "./themes/Majira Strawberry Theme-color-theme.json"
       }
